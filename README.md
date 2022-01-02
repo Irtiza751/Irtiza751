@@ -1,6 +1,8 @@
 ## 👋 Hi, my name is Muhammad Irtiza
-I am a software developer with robust **problem-solving** skills,
+I am a front-end software developer with robust **problem-solving** skills,
 and proven experience in creating and designing the software in a **test-driven** environment.
+
+[Visit my website.](https://m-irtiza.netlify.app)
 
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning frontend development
