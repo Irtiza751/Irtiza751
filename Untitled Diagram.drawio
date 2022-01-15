@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T11:29:46.028Z" agent="5.0 (X11)" etag="xhqCiJti4fdt9t0lBRne" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T11:42:57.541Z" agent="5.0 (X11)" etag="PickpZLP2_OICUWuYIW0" version="16.2.7" type="github">
   <diagram id="cA43ORbkEvU6XSteoCO2" name="Page-1">
     <mxGraphModel dx="1296" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,16 +14,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="L1TU9AOSzRA6Zir3ADgP-1" target="L1TU9AOSzRA6Zir3ADgP-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="160" />
+              <mxPoint x="510" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L1TU9AOSzRA6Zir3ADgP-1" value="main with react function component, redux and scss." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L1TU9AOSzRA6Zir3ADgP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="L1TU9AOSzRA6Zir3ADgP-2" target="L1TU9AOSzRA6Zir3ADgP-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="280" />
+              <mxPoint x="470" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="L1TU9AOSzRA6Zir3ADgP-2" value="b2 with react function component, redux and tailwindss." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="L1TU9AOSzRA6Zir3ADgP-3" target="L1TU9AOSzRA6Zir3ADgP-6">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=-0.011;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L1TU9AOSzRA6Zir3ADgP-3" target="L1TU9AOSzRA6Zir3ADgP-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L1TU9AOSzRA6Zir3ADgP-3" value="b3 with react class component, redux and scss." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -39,7 +53,7 @@
           <mxGeometry x="540" y="200" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L1TU9AOSzRA6Zir3ADgP-6" value="&lt;ol&gt;&lt;li&gt;react&lt;/li&gt;&lt;li&gt;redux&lt;/li&gt;&lt;li&gt;react-redux&lt;/li&gt;&lt;li&gt;redux-thunk&lt;br&gt;&lt;/li&gt;&lt;li&gt;scss&lt;/li&gt;&lt;li&gt;tailwindcss&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="540" y="220" width="170" height="190" as="geometry" />
+          <mxGeometry x="540" y="230" width="170" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
