@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T11:42:57.541Z" agent="5.0 (X11)" etag="PickpZLP2_OICUWuYIW0" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-13T15:06:50.705Z" agent="5.0 (X11)" etag="v74S1uwFer084A7u395g" version="16.5.6" type="github">
   <diagram id="cA43ORbkEvU6XSteoCO2" name="Page-1">
-    <mxGraphModel dx="1296" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.31;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L1TU9AOSzRA6Zir3ADgP-1" target="L1TU9AOSzRA6Zir3ADgP-5">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.31;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="L1TU9AOSzRA6Zir3ADgP-1" target="L1TU9AOSzRA6Zir3ADgP-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="180" as="targetPoint" />
             <Array as="points">
@@ -14,7 +14,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="L1TU9AOSzRA6Zir3ADgP-1" target="L1TU9AOSzRA6Zir3ADgP-6">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="L1TU9AOSzRA6Zir3ADgP-1" target="L1TU9AOSzRA6Zir3ADgP-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="360" as="targetPoint" />
             <Array as="points">
@@ -23,10 +23,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-1" value="main with react function component, redux and scss." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-1" value="main with react function component, redux and scss." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="L1TU9AOSzRA6Zir3ADgP-2" target="L1TU9AOSzRA6Zir3ADgP-6">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="L1TU9AOSzRA6Zir3ADgP-2" target="L1TU9AOSzRA6Zir3ADgP-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="280" />
@@ -34,25 +34,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-2" value="b2 with react function component, redux and tailwindss." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-2" value="b2 with react function component, redux and tailwindss." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=-0.011;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L1TU9AOSzRA6Zir3ADgP-3" target="L1TU9AOSzRA6Zir3ADgP-6">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=-0.011;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="L1TU9AOSzRA6Zir3ADgP-3" target="L1TU9AOSzRA6Zir3ADgP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-3" value="b3 with react class component, redux and scss." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-3" value="b3 with react class component, redux and scss." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.349;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="L1TU9AOSzRA6Zir3ADgP-4" target="L1TU9AOSzRA6Zir3ADgP-6">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.349;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" source="L1TU9AOSzRA6Zir3ADgP-4" target="L1TU9AOSzRA6Zir3ADgP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-4" value="b4 with react class component, redux and tailwindcss." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-4" value="b4 with react class component, redux and tailwindcss." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-5" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Things need for main branch&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-5" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;Things need for main branch&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="540" y="200" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L1TU9AOSzRA6Zir3ADgP-6" value="&lt;ol&gt;&lt;li&gt;react&lt;/li&gt;&lt;li&gt;redux&lt;/li&gt;&lt;li&gt;react-redux&lt;/li&gt;&lt;li&gt;redux-thunk&lt;br&gt;&lt;/li&gt;&lt;li&gt;scss&lt;/li&gt;&lt;li&gt;tailwindcss&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="L1TU9AOSzRA6Zir3ADgP-6" value="&lt;ol&gt;&lt;li&gt;react&lt;/li&gt;&lt;li&gt;redux&lt;/li&gt;&lt;li&gt;react-redux&lt;/li&gt;&lt;li&gt;redux-thunk&lt;br&gt;&lt;/li&gt;&lt;li&gt;scss&lt;/li&gt;&lt;li&gt;tailwindcss&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=5;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="540" y="230" width="170" height="190" as="geometry" />
         </mxCell>
       </root>
