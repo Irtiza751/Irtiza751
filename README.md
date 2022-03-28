@@ -3,7 +3,7 @@
 I am a javascript developer with robust **problem-solving** skills,
 and proven experience in creating and designing the software in a **test-driven** environment.
 
-[Visit my website.](https://m-irtiza.netlify.app)
+[Visit my website.](https://mirtiza.netlify.app)
 
 - I'm currently working on a react native project called Xtreme Adventure.
 - I'm looking to collaborate on some Javascript projects, & my own Tailwindcss clone project using sass.
