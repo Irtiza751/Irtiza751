@@ -1,7 +1,7 @@
 # 💫About Me :
 ## 👋 Hi, my name is Muhammad Irtiza
-I am a javascript developer with robust **problem-solving** skills,
-and proven experience in creating and designing the software in a **test-driven** environment.
+
+Hello, I am a software engineer with 2+ years of experience. I have robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.
 
 [Visit my website.](https://mirtiza.netlify.app)
 
