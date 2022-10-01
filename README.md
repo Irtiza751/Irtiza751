@@ -5,7 +5,7 @@ Hello, I am a software engineer with 2+ years of experience. I have robust probl
 
 [Visit my website.](https://mirtiza.netlify.app)
 
-- I'm currently working on a react native project called Xtreme Adventure.
+- I'm currently working on as an Associate software engineer at Shispare Ltd.
 - I'm looking to collaborate on some Javascript projects, & my own Tailwindcss clone project using sass.
 - I'm currently learning Typescript and OOP.
 - How to reach me: muhammad.irtiza751@gmail.com
