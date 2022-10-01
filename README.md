@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me
 ## 👋 Hi, my name is Muhammad Irtiza
 
 Hello, I am a software engineer with 2+ years of experience. I have robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.
